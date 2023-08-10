@@ -1,5 +1,7 @@
 .checkout-container {
-  width: 55%;
+  overflow-x: scroll;
+  max-width: 800px;
+  position: relative;
   min-height: 90vh;
   display: flex;
   flex-direction: column;
