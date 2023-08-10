@@ -9,7 +9,7 @@ import {
 import FormInput from '../form-input/FormInput';
 
 import { UserContext } from '../../context/user.context';
-import Button from '../button/button';
+import Button from '../button/Button';
 
 const defaultFormFields = {
   displayName: '',

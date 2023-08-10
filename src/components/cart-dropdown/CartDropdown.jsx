@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { CartContext } from '../../context/cart.context';
-import Button from '../button/button';
+import Button from '../button/Button';
 import CartItem from '../cart-item/CartItem';
 import './cart-dropdown.scss';
 import { useNavigate } from 'react-router-dom';
